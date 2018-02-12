@@ -1,0 +1,140 @@
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\StockPricev2\StockPricev2\bin\StockPricev2.dll
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\StockPricev2\StockPricev2\bin\StockPricev2.pdb
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\StockPricev2\StockPricev2\bin\Newtonsoft.Json.dll
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\StockPricev2\StockPricev2\bin\System.Net.Http.Formatting.dll
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\StockPricev2\StockPricev2\bin\System.Web.Http.dll
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\StockPricev2\StockPricev2\bin\System.Web.Http.WebHost.dll
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\StockPricev2\StockPricev2\bin\Newtonsoft.Json.xml
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\StockPricev2\StockPricev2\bin\System.Net.Http.Formatting.xml
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\StockPricev2\StockPricev2\bin\System.Web.Http.xml
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\StockPricev2\StockPricev2\bin\System.Web.Http.WebHost.xml
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\StockPricev2\StockPricev2\obj\Debug\StockPricev2.dll
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\StockPricev2\StockPricev2\obj\Debug\StockPricev2.pdb
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPricev2\StockPricev2\bin\StockPricev2.dll.config
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPricev2\StockPricev2\bin\StockPricev2.dll
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPricev2\StockPricev2\bin\StockPricev2.pdb
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPricev2\StockPricev2\bin\Newtonsoft.Json.dll
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPricev2\StockPricev2\bin\System.Net.Http.Formatting.dll
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPricev2\StockPricev2\bin\System.Web.Http.dll
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPricev2\StockPricev2\bin\System.Web.Http.WebHost.dll
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPricev2\StockPricev2\bin\Newtonsoft.Json.xml
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPricev2\StockPricev2\bin\System.Net.Http.Formatting.xml
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPricev2\StockPricev2\bin\System.Web.Http.xml
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPricev2\StockPricev2\bin\System.Web.Http.WebHost.xml
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPricev2\StockPricev2\obj\Debug\StockPricev2.dll
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPricev2\StockPricev2\obj\Debug\StockPricev2.pdb
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPricev2\StockPricev2\bin\EntityFramework.dll
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPricev2\StockPricev2\bin\EntityFramework.SqlServer.dll
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPricev2\StockPricev2\bin\EntityFramework.xml
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPricev2\StockPricev2\bin\EntityFramework.SqlServer.xml
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPricev2\StockPricev2\obj\Debug\StockPricev2.csprojResolveAssemblyReference.cache
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPricev2\StockPricev2\bin\StockPricev2.dll.config
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPricev2\StockPricev2\bin\StockPricev2.dll
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPricev2\StockPricev2\bin\StockPricev2.pdb
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPricev2\StockPricev2\bin\EntityFramework.dll
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPricev2\StockPricev2\bin\EntityFramework.SqlServer.dll
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPricev2\StockPricev2\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPricev2\StockPricev2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPricev2\StockPricev2\bin\Newtonsoft.Json.dll
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPricev2\StockPricev2\bin\Swashbuckle.Core.dll
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPricev2\StockPricev2\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPricev2\StockPricev2\bin\System.Net.Http.Formatting.dll
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPricev2\StockPricev2\bin\System.Web.Http.dll
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPricev2\StockPricev2\bin\System.Web.Http.WebHost.dll
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPricev2\StockPricev2\bin\WebActivatorEx.dll
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPricev2\StockPricev2\bin\EntityFramework.xml
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPricev2\StockPricev2\bin\EntityFramework.SqlServer.xml
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPricev2\StockPricev2\bin\Newtonsoft.Json.xml
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPricev2\StockPricev2\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPricev2\StockPricev2\bin\System.Net.Http.Formatting.xml
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPricev2\StockPricev2\bin\System.Web.Http.xml
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPricev2\StockPricev2\bin\System.Web.Http.WebHost.xml
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPricev2\StockPricev2\obj\Debug\StockPricev2.csprojResolveAssemblyReference.cache
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPricev2\StockPricev2\obj\Debug\StockPricev2.dll
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPricev2\StockPricev2\obj\Debug\StockPricev2.pdb
+C:\EAD2\StockPricev2\StockPricev2\bin\StockPricev2.dll.config
+C:\EAD2\StockPricev2\StockPricev2\bin\StockPricev2.dll
+C:\EAD2\StockPricev2\StockPricev2\bin\StockPricev2.pdb
+C:\EAD2\StockPricev2\StockPricev2\bin\EntityFramework.dll
+C:\EAD2\StockPricev2\StockPricev2\bin\EntityFramework.SqlServer.dll
+C:\EAD2\StockPricev2\StockPricev2\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\EAD2\StockPricev2\StockPricev2\bin\Microsoft.Web.Infrastructure.dll
+C:\EAD2\StockPricev2\StockPricev2\bin\Newtonsoft.Json.dll
+C:\EAD2\StockPricev2\StockPricev2\bin\Swashbuckle.Core.dll
+C:\EAD2\StockPricev2\StockPricev2\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\EAD2\StockPricev2\StockPricev2\bin\System.Net.Http.Formatting.dll
+C:\EAD2\StockPricev2\StockPricev2\bin\System.Web.Http.dll
+C:\EAD2\StockPricev2\StockPricev2\bin\System.Web.Http.WebHost.dll
+C:\EAD2\StockPricev2\StockPricev2\bin\WebActivatorEx.dll
+C:\EAD2\StockPricev2\StockPricev2\bin\EntityFramework.xml
+C:\EAD2\StockPricev2\StockPricev2\bin\EntityFramework.SqlServer.xml
+C:\EAD2\StockPricev2\StockPricev2\bin\Newtonsoft.Json.xml
+C:\EAD2\StockPricev2\StockPricev2\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\EAD2\StockPricev2\StockPricev2\bin\System.Net.Http.Formatting.xml
+C:\EAD2\StockPricev2\StockPricev2\bin\System.Web.Http.xml
+C:\EAD2\StockPricev2\StockPricev2\bin\System.Web.Http.WebHost.xml
+C:\EAD2\StockPricev2\StockPricev2\obj\Debug\StockPricev2.dll
+C:\EAD2\StockPricev2\StockPricev2\obj\Debug\StockPricev2.pdb
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPricev2\StockPricev2\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPricev2\StockPricev2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPricev2\StockPricev2\bin\Swashbuckle.Core.dll
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPricev2\StockPricev2\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPricev2\StockPricev2\bin\WebActivatorEx.dll
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPricev2\StockPricev2\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\bin\StockPricev2.dll.config
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\bin\StockPricev2.dll
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\bin\StockPricev2.pdb
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\bin\EntityFramework.dll
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\bin\EntityFramework.SqlServer.dll
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\bin\Microsoft.IdentityModel.Logging.dll
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\bin\Microsoft.Web.Infrastructure.dll
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\bin\Newtonsoft.Json.dll
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\bin\Swashbuckle.Core.dll
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\bin\System.Net.Http.Formatting.dll
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\bin\System.Web.Http.dll
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\bin\System.Web.Http.WebHost.dll
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\bin\WebActivatorEx.dll
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\bin\EntityFramework.xml
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\bin\EntityFramework.SqlServer.xml
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\bin\Microsoft.IdentityModel.Logging.xml
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\bin\Newtonsoft.Json.xml
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\bin\System.Net.Http.Formatting.xml
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\bin\System.Web.Http.xml
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\bin\System.Web.Http.WebHost.xml
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\obj\Debug\StockPricev2.csprojResolveAssemblyReference.cache
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\obj\Debug\StockPricev2.dll
+C:\Gary\Web API 2 2\StockPricev2\StockPricev2\obj\Debug\StockPricev2.pdb
+C:\GC\StockPricev2\StockPricev2\bin\StockPricev2.dll.config
+C:\GC\StockPricev2\StockPricev2\bin\StockPricev2.dll
+C:\GC\StockPricev2\StockPricev2\bin\StockPricev2.pdb
+C:\GC\StockPricev2\StockPricev2\bin\EntityFramework.dll
+C:\GC\StockPricev2\StockPricev2\bin\EntityFramework.SqlServer.dll
+C:\GC\StockPricev2\StockPricev2\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\GC\StockPricev2\StockPricev2\bin\Microsoft.IdentityModel.Logging.dll
+C:\GC\StockPricev2\StockPricev2\bin\Microsoft.IdentityModel.Tokens.dll
+C:\GC\StockPricev2\StockPricev2\bin\Microsoft.Web.Infrastructure.dll
+C:\GC\StockPricev2\StockPricev2\bin\Newtonsoft.Json.dll
+C:\GC\StockPricev2\StockPricev2\bin\Swashbuckle.Core.dll
+C:\GC\StockPricev2\StockPricev2\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\GC\StockPricev2\StockPricev2\bin\System.Net.Http.Formatting.dll
+C:\GC\StockPricev2\StockPricev2\bin\System.Web.Http.dll
+C:\GC\StockPricev2\StockPricev2\bin\System.Web.Http.WebHost.dll
+C:\GC\StockPricev2\StockPricev2\bin\WebActivatorEx.dll
+C:\GC\StockPricev2\StockPricev2\bin\EntityFramework.xml
+C:\GC\StockPricev2\StockPricev2\bin\EntityFramework.SqlServer.xml
+C:\GC\StockPricev2\StockPricev2\bin\Microsoft.IdentityModel.Logging.xml
+C:\GC\StockPricev2\StockPricev2\bin\Microsoft.IdentityModel.Tokens.xml
+C:\GC\StockPricev2\StockPricev2\bin\Newtonsoft.Json.xml
+C:\GC\StockPricev2\StockPricev2\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\GC\StockPricev2\StockPricev2\bin\System.Net.Http.Formatting.xml
+C:\GC\StockPricev2\StockPricev2\bin\System.Web.Http.xml
+C:\GC\StockPricev2\StockPricev2\bin\System.Web.Http.WebHost.xml
+C:\GC\StockPricev2\StockPricev2\obj\Debug\StockPricev2.csprojResolveAssemblyReference.cache
+C:\GC\StockPricev2\StockPricev2\obj\Debug\StockPricev2.csproj.CoreCompileInputs.cache
+C:\GC\StockPricev2\StockPricev2\obj\Debug\StockPricev2.dll
+C:\GC\StockPricev2\StockPricev2\obj\Debug\StockPricev2.pdb

@@ -1,0 +1,70 @@
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\HelloWorld\HelloWorld\bin\HelloWorld.dll
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\HelloWorld\HelloWorld\bin\Newtonsoft.Json.dll
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\HelloWorld\HelloWorld\bin\System.Net.Http.Formatting.dll
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\HelloWorld\HelloWorld\bin\System.Web.Http.dll
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\HelloWorld\HelloWorld\bin\System.Web.Http.WebHost.dll
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\HelloWorld\HelloWorld\bin\Newtonsoft.Json.xml
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\HelloWorld\HelloWorld\bin\System.Net.Http.Formatting.xml
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\HelloWorld\HelloWorld\bin\System.Web.Http.xml
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\HelloWorld\HelloWorld\bin\System.Web.Http.WebHost.xml
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\HelloWorld\HelloWorld\bin\HelloWorld.dll
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\HelloWorld\HelloWorld\bin\Newtonsoft.Json.dll
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\HelloWorld\HelloWorld\bin\System.Net.Http.Formatting.dll
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\HelloWorld\HelloWorld\bin\System.Web.Http.dll
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\HelloWorld\HelloWorld\bin\System.Web.Http.WebHost.dll
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\HelloWorld\HelloWorld\bin\Newtonsoft.Json.xml
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\HelloWorld\HelloWorld\bin\System.Net.Http.Formatting.xml
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\HelloWorld\HelloWorld\bin\System.Web.Http.xml
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\HelloWorld\HelloWorld\bin\System.Web.Http.WebHost.xml
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\HelloWorld\HelloWorld\bin\HelloWorld.dll.config
+C:\Users\gclynch\OneDrive\Web API 2.2\HelloWorld\HelloWorld\bin\HelloWorld.dll.config
+C:\Users\gclynch\OneDrive\Web API 2.2\HelloWorld\HelloWorld\bin\HelloWorld.dll
+C:\Users\gclynch\OneDrive\Web API 2.2\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+C:\Users\gclynch\OneDrive\Web API 2.2\HelloWorld\HelloWorld\bin\Newtonsoft.Json.dll
+C:\Users\gclynch\OneDrive\Web API 2.2\HelloWorld\HelloWorld\bin\System.Net.Http.Formatting.dll
+C:\Users\gclynch\OneDrive\Web API 2.2\HelloWorld\HelloWorld\bin\System.Web.Http.dll
+C:\Users\gclynch\OneDrive\Web API 2.2\HelloWorld\HelloWorld\bin\System.Web.Http.WebHost.dll
+C:\Users\gclynch\OneDrive\Web API 2.2\HelloWorld\HelloWorld\bin\Newtonsoft.Json.xml
+C:\Users\gclynch\OneDrive\Web API 2.2\HelloWorld\HelloWorld\bin\System.Net.Http.Formatting.xml
+C:\Users\gclynch\OneDrive\Web API 2.2\HelloWorld\HelloWorld\bin\System.Web.Http.xml
+C:\Users\gclynch\OneDrive\Web API 2.2\HelloWorld\HelloWorld\bin\System.Web.Http.WebHost.xml
+C:\Users\gclynch\OneDrive\Web API 2.2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\gclynch\OneDrive\Web API 2.2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\Users\gclynch\OneDrive\Web API 2.2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Gary\Web API 2 2\HelloWorld\HelloWorld\bin\HelloWorld.dll.config
+C:\Gary\Web API 2 2\HelloWorld\HelloWorld\bin\HelloWorld.dll
+C:\Gary\Web API 2 2\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+C:\Gary\Web API 2 2\HelloWorld\HelloWorld\bin\Newtonsoft.Json.dll
+C:\Gary\Web API 2 2\HelloWorld\HelloWorld\bin\System.Net.Http.Formatting.dll
+C:\Gary\Web API 2 2\HelloWorld\HelloWorld\bin\System.Web.Http.dll
+C:\Gary\Web API 2 2\HelloWorld\HelloWorld\bin\System.Web.Http.WebHost.dll
+C:\Gary\Web API 2 2\HelloWorld\HelloWorld\bin\Newtonsoft.Json.xml
+C:\Gary\Web API 2 2\HelloWorld\HelloWorld\bin\System.Net.Http.Formatting.xml
+C:\Gary\Web API 2 2\HelloWorld\HelloWorld\bin\System.Web.Http.xml
+C:\Gary\Web API 2 2\HelloWorld\HelloWorld\bin\System.Web.Http.WebHost.xml
+C:\Gary\Web API 2 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Gary\Web API 2 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\Gary\Web API 2 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\GC\HelloWorld\HelloWorld\bin\HelloWorld.dll.config
+C:\GC\HelloWorld\HelloWorld\bin\HelloWorld.dll
+C:\GC\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+C:\GC\HelloWorld\HelloWorld\bin\Newtonsoft.Json.dll
+C:\GC\HelloWorld\HelloWorld\bin\System.Net.Http.Formatting.dll
+C:\GC\HelloWorld\HelloWorld\bin\System.Web.Http.dll
+C:\GC\HelloWorld\HelloWorld\bin\System.Web.Http.WebHost.dll
+C:\GC\HelloWorld\HelloWorld\bin\Newtonsoft.Json.xml
+C:\GC\HelloWorld\HelloWorld\bin\System.Net.Http.Formatting.xml
+C:\GC\HelloWorld\HelloWorld\bin\System.Web.Http.xml
+C:\GC\HelloWorld\HelloWorld\bin\System.Web.Http.WebHost.xml
+C:\GC\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\GC\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\GC\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\GC\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

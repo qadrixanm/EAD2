@@ -1,0 +1,97 @@
+C:\gary\EAD\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.exe.config
+C:\gary\EAD\ASP.Net Web API\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.csprojResolveAssemblyReference.cache
+C:\gary\EAD\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.exe
+C:\gary\EAD\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.pdb
+C:\gary\EAD\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\Newtonsoft.Json.dll
+C:\gary\EAD\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\gary\EAD\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\Newtonsoft.Json.xml
+C:\gary\EAD\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\gary\EAD\ASP.Net Web API\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.exe
+C:\gary\EAD\ASP.Net Web API\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.pdb
+M:\EAD\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.exe.config
+M:\EAD\ASP.Net Web API\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.exe
+M:\EAD\ASP.Net Web API\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.pdb
+M:\EAD\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.exe
+M:\EAD\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.pdb
+M:\EAD\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\Newtonsoft.Json.dll
+M:\EAD\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\System.Net.Http.Formatting.dll
+M:\EAD\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\Newtonsoft.Json.xml
+M:\EAD\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\System.Net.Http.Formatting.xml
+M:\EAD\ASP.Net Web API\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.csprojResolveAssemblyReference.cache
+D:\EAD\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.exe.config
+D:\EAD\ASP.Net Web API\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.exe
+D:\EAD\ASP.Net Web API\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.pdb
+E:\EAD2\ROA\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.exe.config
+E:\EAD2\ROA\ASP.Net Web API\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.exe
+E:\EAD2\ROA\ASP.Net Web API\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.pdb
+E:\EAD2\ROA\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.exe
+E:\EAD2\ROA\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.pdb
+E:\EAD2\ROA\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\Newtonsoft.Json.dll
+E:\EAD2\ROA\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\System.Net.Http.Formatting.dll
+E:\EAD2\ROA\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\Newtonsoft.Json.xml
+E:\EAD2\ROA\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\System.Net.Http.Formatting.xml
+E:\EAD2\ROA\ASP.Net Web API\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.csprojResolveAssemblyReference.cache
+C:\Gary\EAD2\ROA\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.exe.config
+C:\Gary\EAD2\ROA\ASP.Net Web API\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.exe
+C:\Gary\EAD2\ROA\ASP.Net Web API\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.pdb
+C:\Gary\EAD2\ROA\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.exe
+C:\Gary\EAD2\ROA\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.pdb
+C:\Gary\EAD2\ROA\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\Newtonsoft.Json.dll
+C:\Gary\EAD2\ROA\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Gary\EAD2\ROA\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\Newtonsoft.Json.xml
+C:\Gary\EAD2\ROA\ASP.Net Web API\StockPriceClient\StockPriceClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Gary\EAD2\ROA\ASP.Net Web API\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.csprojResolveAssemblyReference.cache
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.exe.config
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.exe
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.pdb
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.exe
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.pdb
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\StockPriceClient\StockPriceClient\bin\Debug\Newtonsoft.Json.dll
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\StockPriceClient\StockPriceClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\StockPriceClient\StockPriceClient\bin\Debug\Newtonsoft.Json.xml
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\StockPriceClient\StockPriceClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Gary\EAD2\ROA\ASP.Net Web API 2.1\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.csprojResolveAssemblyReference.cache
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.exe.config
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.exe
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.pdb
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.exe
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.pdb
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPriceClient\StockPriceClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPriceClient\StockPriceClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPriceClient\StockPriceClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPriceClient\StockPriceClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.csprojResolveAssemblyReference.cache
+C:\Users\gclynch\OneDrive\Web API 2 2\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.exe.config
+C:\Users\gclynch\OneDrive\Web API 2 2\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.exe
+C:\Users\gclynch\OneDrive\Web API 2 2\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.pdb
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.exe.config
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.exe
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.pdb
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.exe
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.pdb
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPriceClient\StockPriceClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPriceClient\StockPriceClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPriceClient\StockPriceClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPriceClient\StockPriceClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\gclynch\OneDrive\Web API 2.2\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.csprojResolveAssemblyReference.cache
+C:\Gary\Web API 2 2\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.exe.config
+C:\Gary\Web API 2 2\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.exe
+C:\Gary\Web API 2 2\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.pdb
+C:\Gary\Web API 2 2\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.exe
+C:\Gary\Web API 2 2\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.pdb
+C:\Gary\Web API 2 2\StockPriceClient\StockPriceClient\bin\Debug\Newtonsoft.Json.dll
+C:\Gary\Web API 2 2\StockPriceClient\StockPriceClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Gary\Web API 2 2\StockPriceClient\StockPriceClient\bin\Debug\Newtonsoft.Json.xml
+C:\Gary\Web API 2 2\StockPriceClient\StockPriceClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Gary\Web API 2 2\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.csprojResolveAssemblyReference.cache
+C:\GC\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.exe.config
+C:\GC\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.exe
+C:\GC\StockPriceClient\StockPriceClient\bin\Debug\StockPriceClient.pdb
+C:\GC\StockPriceClient\StockPriceClient\bin\Debug\Newtonsoft.Json.dll
+C:\GC\StockPriceClient\StockPriceClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\GC\StockPriceClient\StockPriceClient\bin\Debug\Newtonsoft.Json.xml
+C:\GC\StockPriceClient\StockPriceClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\GC\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.csprojResolveAssemblyReference.cache
+C:\GC\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.csproj.CoreCompileInputs.cache
+C:\GC\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.exe
+C:\GC\StockPriceClient\StockPriceClient\obj\Debug\StockPriceClient.pdb

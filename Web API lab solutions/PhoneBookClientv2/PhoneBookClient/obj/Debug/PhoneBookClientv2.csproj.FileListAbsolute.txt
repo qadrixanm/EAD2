@@ -1,0 +1,55 @@
+C:\gary\EAD\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\bin\Debug\PhoneBookClient.exe.config
+C:\gary\EAD\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\obj\Debug\PhoneBookClient.exe
+C:\gary\EAD\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\obj\Debug\PhoneBookClient.pdb
+C:\gary\EAD\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\bin\Debug\PhoneBookClient.exe
+C:\gary\EAD\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\bin\Debug\PhoneBookClient.pdb
+C:\gary\EAD\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\bin\Debug\Newtonsoft.Json.dll
+C:\gary\EAD\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\gary\EAD\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\bin\Debug\Newtonsoft.Json.xml
+C:\gary\EAD\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\gary\EAD\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\obj\Debug\PhoneBookClientv2.csprojResolveAssemblyReference.cache
+M:\EAD\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\bin\Debug\PhoneBookClient.exe.config
+M:\EAD\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\obj\Debug\PhoneBookClient.exe
+M:\EAD\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\obj\Debug\PhoneBookClient.pdb
+M:\EAD\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\bin\Debug\PhoneBookClient.exe
+M:\EAD\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\bin\Debug\PhoneBookClient.pdb
+M:\EAD\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\bin\Debug\Newtonsoft.Json.dll
+M:\EAD\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\bin\Debug\System.Net.Http.Formatting.dll
+M:\EAD\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\bin\Debug\Newtonsoft.Json.xml
+M:\EAD\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\bin\Debug\System.Net.Http.Formatting.xml
+M:\EAD\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\obj\Debug\PhoneBookClientv2.csprojResolveAssemblyReference.cache
+D:\EAD\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\bin\Debug\PhoneBookClient.exe.config
+D:\EAD\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\obj\Debug\PhoneBookClient.exe
+D:\EAD\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\obj\Debug\PhoneBookClient.pdb
+D:\EAD2\ROA\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\bin\Debug\PhoneBookClient.exe.config
+D:\EAD2\ROA\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\obj\Debug\PhoneBookClient.exe
+D:\EAD2\ROA\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\obj\Debug\PhoneBookClient.pdb
+E:\EAD2\ROA\ASP.Net Web API\labs\PhoneBookClientv2\PhoneBookClient\bin\Debug\PhoneBookClient.exe.config
+E:\EAD2\ROA\ASP.Net Web API\labs\PhoneBookClientv2\PhoneBookClient\obj\Debug\PhoneBookClient.exe
+E:\EAD2\ROA\ASP.Net Web API\labs\PhoneBookClientv2\PhoneBookClient\obj\Debug\PhoneBookClient.pdb
+E:\EAD2\ROA\ASP.Net Web API\labs\PhoneBookClientv2\PhoneBookClient\bin\Debug\PhoneBookClient.exe
+E:\EAD2\ROA\ASP.Net Web API\labs\PhoneBookClientv2\PhoneBookClient\bin\Debug\PhoneBookClient.pdb
+E:\EAD2\ROA\ASP.Net Web API\labs\PhoneBookClientv2\PhoneBookClient\bin\Debug\Newtonsoft.Json.dll
+E:\EAD2\ROA\ASP.Net Web API\labs\PhoneBookClientv2\PhoneBookClient\bin\Debug\System.Net.Http.Formatting.dll
+E:\EAD2\ROA\ASP.Net Web API\labs\PhoneBookClientv2\PhoneBookClient\bin\Debug\Newtonsoft.Json.xml
+E:\EAD2\ROA\ASP.Net Web API\labs\PhoneBookClientv2\PhoneBookClient\bin\Debug\System.Net.Http.Formatting.xml
+E:\EAD2\ROA\ASP.Net Web API\labs\PhoneBookClientv2\PhoneBookClient\obj\Debug\PhoneBookClientv2.csprojResolveAssemblyReference.cache
+C:\Gary\EAD2\ROA\ASP.Net Web API\labs\PhoneBookClientv2\PhoneBookClient\bin\Debug\PhoneBookClient.exe.config
+C:\Gary\EAD2\ROA\ASP.Net Web API\labs\PhoneBookClientv2\PhoneBookClient\bin\Debug\PhoneBookClient.exe
+C:\Gary\EAD2\ROA\ASP.Net Web API\labs\PhoneBookClientv2\PhoneBookClient\bin\Debug\PhoneBookClient.pdb
+C:\Gary\EAD2\ROA\ASP.Net Web API\labs\PhoneBookClientv2\PhoneBookClient\bin\Debug\Newtonsoft.Json.dll
+C:\Gary\EAD2\ROA\ASP.Net Web API\labs\PhoneBookClientv2\PhoneBookClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Gary\EAD2\ROA\ASP.Net Web API\labs\PhoneBookClientv2\PhoneBookClient\bin\Debug\Newtonsoft.Json.xml
+C:\Gary\EAD2\ROA\ASP.Net Web API\labs\PhoneBookClientv2\PhoneBookClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Gary\EAD2\ROA\ASP.Net Web API\labs\PhoneBookClientv2\PhoneBookClient\obj\Debug\PhoneBookClientv2.csprojResolveAssemblyReference.cache
+C:\Gary\EAD2\ROA\ASP.Net Web API\labs\PhoneBookClientv2\PhoneBookClient\obj\Debug\PhoneBookClient.exe
+C:\Gary\EAD2\ROA\ASP.Net Web API\labs\PhoneBookClientv2\PhoneBookClient\obj\Debug\PhoneBookClient.pdb
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\labs\PhoneBookClientv2\PhoneBookClient\bin\Debug\PhoneBookClient.exe.config
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\labs\PhoneBookClientv2\PhoneBookClient\obj\Debug\PhoneBookClient.exe
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\labs\PhoneBookClientv2\PhoneBookClient\obj\Debug\PhoneBookClient.pdb
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\labs\PhoneBookClientv2\PhoneBookClient\bin\Debug\PhoneBookClient.exe
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\labs\PhoneBookClientv2\PhoneBookClient\bin\Debug\PhoneBookClient.pdb
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\labs\PhoneBookClientv2\PhoneBookClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\labs\PhoneBookClientv2\PhoneBookClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\labs\PhoneBookClientv2\PhoneBookClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gary.LAB040-17\OneDrive\Web API 2 2\labs\PhoneBookClientv2\PhoneBookClient\bin\Debug\System.Net.Http.Formatting.xml

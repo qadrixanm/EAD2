@@ -1,0 +1,13 @@
+C:\gary\EAD\ASP.Net Web API\PhoneBookClient\PhoneBookClient\bin\Debug\PhoneBookClient.exe.config
+C:\gary\EAD\ASP.Net Web API\PhoneBookClient\PhoneBookClient\bin\Debug\PhoneBookClient.exe
+C:\gary\EAD\ASP.Net Web API\PhoneBookClient\PhoneBookClient\bin\Debug\PhoneBookClient.pdb
+C:\gary\EAD\ASP.Net Web API\PhoneBookClient\PhoneBookClient\bin\Debug\Newtonsoft.Json.dll
+C:\gary\EAD\ASP.Net Web API\PhoneBookClient\PhoneBookClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\gary\EAD\ASP.Net Web API\PhoneBookClient\PhoneBookClient\bin\Debug\Newtonsoft.Json.xml
+C:\gary\EAD\ASP.Net Web API\PhoneBookClient\PhoneBookClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\gary\EAD\ASP.Net Web API\PhoneBookClient\PhoneBookClient\obj\Debug\PhoneBookClient.csprojResolveAssemblyReference.cache
+C:\gary\EAD\ASP.Net Web API\PhoneBookClient\PhoneBookClient\obj\Debug\PhoneBookClient.exe
+C:\gary\EAD\ASP.Net Web API\PhoneBookClient\PhoneBookClient\obj\Debug\PhoneBookClient.pdb
+C:\gary\EAD\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\bin\Debug\PhoneBookClient.exe.config
+C:\gary\EAD\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\obj\Debug\PhoneBookClient.exe
+C:\gary\EAD\ASP.Net Web API\PhoneBookClientv2\PhoneBookClient\obj\Debug\PhoneBookClient.pdb

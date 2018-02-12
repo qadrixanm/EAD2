@@ -1,0 +1,6 @@
+git config --global user.name "kadrieh"
+git config --global use.email "kadriehzadeh@gmail.com"
+git config --global http.proxy http://ironweb2.it-tallaght.ie:80
+git config --global http.sslVerify false
+
+test
